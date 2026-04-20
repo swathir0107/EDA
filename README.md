@@ -53,6 +53,7 @@ Build prediction model.
 Step 10:
 Predict churn customers. 
 
+📂 Project Structure (Flowchart)
 Start Project
    ↓
 Import Libraries
